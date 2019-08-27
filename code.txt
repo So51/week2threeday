@@ -1,0 +1,2 @@
+var q = 13 ; var d = 54 ; 
+document.write(q + d );
